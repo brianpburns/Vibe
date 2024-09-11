@@ -19,8 +19,8 @@ by order of nearest to them. This information is only used ephemerally and is no
 
 ## Contact Information
 
-If any security vulnerabilities have been introduced or there are questions regarding how the app protects your privacy, please send me an email
-as the email address below.
+If any security vulnerabilities have been introduced or there questions regarding how the app protects your privacy, please send me an email
+at the address below.
 
 Brian Burns,
 Vancouver, BC, Canada
