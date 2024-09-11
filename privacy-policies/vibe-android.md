@@ -1,5 +1,7 @@
 # Vibe Privacy Policy
 
+##### Effective 11 September 2024
+
 Welcome to the Vibe happy hour app for Android.
 
 This app is developed by Brian Burns.
