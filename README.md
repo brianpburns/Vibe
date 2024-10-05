@@ -1,3 +1,3 @@
-- [privacy policy](/docs/privacy-policy.md)
-- [terms and conditions](/docs/terms-and-conditions.md)
-- [support](/docs/support.md)
+- [privacy policy](docs/privacy-policy)
+- [terms and conditions](docs/terms-and-conditions)
+- [support](docs/support)
