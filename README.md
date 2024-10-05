@@ -1,3 +1,3 @@
-# Vibe Support Docs
-
-For any issues or inquiries please reach out to burns.developer@gmail.com
+- [privacy policy](/docs/privacy-policy.md)
+- [terms and conditions](/docs/terms-and-conditions.md)
+- [support](/docs/support.md)
