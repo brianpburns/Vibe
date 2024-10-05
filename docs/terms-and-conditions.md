@@ -1,4 +1,4 @@
-## Vibe Terms & Conditions
+## Terms & Conditions
 
 ###### Effective 12 September 2024
 
